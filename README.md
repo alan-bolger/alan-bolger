@@ -1,1 +1,3 @@
-- Hello. This is my GitHub profile.
+# Alan Bolger
+
+Welcome to my personal GitHub profile!
